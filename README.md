@@ -1,4 +1,4 @@
-# Self-Driving-Car:
+# Self-Driving-Car
 This is the code for a self driving Neural Network using NEAT in Python
 
 To execute it, run main.py in python 3.7. You also need NEAT, pygame, numpy and scipy
